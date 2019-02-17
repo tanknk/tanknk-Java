@@ -4,7 +4,7 @@
 System.out.print("Hello World!");
 System.out.print("Hello World!");
 ```
-## Sample Code
+### Sample Code
 ```java
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -29,17 +29,16 @@ public class JavaExample1 {
     
 }
 ```
-## Output
+### Output
 ```java
 Hello World!Hello World!
 ```
-<br>
 ## println พิมพ์แล้วขึ้นบรรทัดใหม่ (ln = line)
 ```java
 System.out.println("Hello World!");
 System.out.println("Hello World!");
 ```
-## Sample Code
+### Sample Code
 ```java
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -64,7 +63,7 @@ public class JavaExample1 {
     
 }
 ```
-## Output
+### Output
 ```java
 Hello World!
 Hello World!
