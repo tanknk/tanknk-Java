@@ -1,19 +1,19 @@
-#How to print in Java
-##print พิมพ์ในบรรทัดเดียวกัน (ไม่ขึ้นบรรทัดใหม่)
+# How to print in Java
+## print พิมพ์ในบรรทัดเดียวกัน (ไม่ขึ้นบรรทัดใหม่)
 ```
 System.out.print("Hello World!");
 System.out.print("Hello World!");
 ```
-##Output
+## Output
 ```
 Hello World!Hello World!
 ```
-##println พิมพ์แล้วขึ้นบรรทัดใหม่ (ln = line)
+## println พิมพ์แล้วขึ้นบรรทัดใหม่ (ln = line)
 ```
 System.out.println("Hello World!");
 System.out.println("Hello World!");
 ```
-##Output
+## Output
 ```
 Hello World!
 Hello World!
