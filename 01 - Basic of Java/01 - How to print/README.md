@@ -5,7 +5,7 @@ Output
 Hello World!Hello World!
 
 
-println »ÃÔé¹áÅéÇ¢Öé¹ºÃÃ·Ñ´ãËÁè (ln = line)
+println ปริ้นท์แล้วขึ้นบรรทัดใหม่ (ln = line)
 System.out.println("Hello World!");
 System.out.println("Hello World!");
 
