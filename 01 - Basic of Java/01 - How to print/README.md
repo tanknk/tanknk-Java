@@ -1,6 +1,6 @@
 <h1>How to print in Java</h1>
 <h2>print พิมพ์ในบรรทัดเดียวกัน (ไม่ขึ้นบรรทัดใหม่)</h2>
-```c
+```java
 System.out.print("Hello World!");<br>
 System.out.print("Hello World!");
 ```
