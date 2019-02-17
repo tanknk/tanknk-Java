@@ -22,3 +22,9 @@ public class JavaExample1 {
     
 }
 ```
+## Description
+```
+package javaexample1 คือ ที่ๆเราเก็บโปรเจคต์นั้นไว้ ในกรณีนี้เราเก็บโปรเจคต์และโค้ดทั้งหมดไว้ภายในโฟลเดอร์ที่ชื่อว่า javaexample1
+public class JavaExample1 คือ ที่ๆเราเก็บ source code หรือ class ก็คือชื่อไฟล์ java ของเรานั่นเอง ในกรณีนี้ตั้งชื่อไฟล์ว่า JavaExample1
+public static void main(String[] args) คือ ฟังก์ชั่นหรือที่เราเอาไว้เขียนคำสั่งต่างๆนั่นเอง เหมือนใน C หรือ Python เราต้องเขียนโค้ดต่างๆภายในฟังก์ชั่นเหมือนกัน
+```
