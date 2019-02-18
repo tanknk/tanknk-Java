@@ -79,7 +79,7 @@ System.out.println(10.5+10.5);
 ### Boolean (ข้อมูงเชิงตรรก)
 #### How to print Boolean
 ```java
-System.out.println(ค่่าความจริง);
+System.out.println(ค่าความจริง);
 ```
 #### Example
 ```java
